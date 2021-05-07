@@ -1,0 +1,8 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1620381042523,941,HTTP Request,200,OK,Manual 1-1,text,true,,288735,3893,1,1,https://blazedemo.com/reserve.php,353,0,72
+1620381042523,356,HTTP Request-0,200,OK,Manual 1-1,text,true,,5827,678,1,1,https://blazedemo.com/reserve.php,353,0,72
+1620381042880,112,HTTP Request-1,200,OK,Manual 1-1,text,true,,83605,657,1,1,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,49,0,23
+1620381042880,381,HTTP Request-2,200,OK,Manual 1-1,text,true,,28981,638,1,1,https://blazedemo.com/assets/bootstrap.min.js,254,0,67
+1620381042880,268,HTTP Request-3,200,OK,Manual 1-1,text,true,,39488,640,1,1,https://blazedemo.com/assets/bootstrap-table.js,195,0,0
+1620381042880,584,HTTP Request-4,200,OK,Manual 1-1,text,true,,126767,639,1,1,https://blazedemo.com/assets/bootstrap.min.css,262,0,71
+1620381042880,268,HTTP Request-5,200,OK,Manual 1-1,text,true,,4067,641,1,1,https://blazedemo.com/assets/bootstrap-table.css,262,0,74
